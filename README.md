@@ -15,8 +15,6 @@ This project was developed as part of the [GODS-3.0 Hackathon](https://www.kaggl
 ## Workflow Overview 📝
 ![Workflow Overview](https://github.com/atefbouzid/GODS-3.0-Hackathon/assets/122903316/e0a18131-4e03-40da-96f3-0061342bcac5)
 
-This section provides an overview of our workflow during the GODS-3.0 Hackathon.
-
 ## Expected Runtime ⏱️
 This project has an expected runtime of approximately 18 minutes when executed using a Kaggle notebook environment.
 
