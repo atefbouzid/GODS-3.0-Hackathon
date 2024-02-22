@@ -8,8 +8,10 @@ This project was developed as part of the [GODS-3.0 Hackathon](https://www.kaggl
 - **Goal**: The main objective was to develop an automated detection system for personal protective equipment (PPE) in construction site images. This system aims to use AI to identify whether workers are wearing the required safety gear, thereby contributing to improved safety measures on construction sites.
 
 ## Results 📊
+**Public Leaderboard**:
 ![Public Leaderboard](https://github.com/atefbouzid/GODS-3.0-Hackathon/assets/122903316/d36a80d3-b2f8-42a0-a69a-c0c762bb4947)
 
+**Private Leaderboard**:
 ![Private Leaderboard](https://github.com/atefbouzid/GODS-3.0-Hackathon/assets/122903316/0ea66e90-ac43-4930-b94a-fc6ab8b1e5d1)
 
 ## Workflow Overview 📝
